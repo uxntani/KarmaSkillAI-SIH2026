@@ -9,9 +9,9 @@
 
 | Resource | Link |
 | :--- | :--- |
-| 🌐 **Live Website Demo** | [Paste Website Demo Link Here](https://your-demo-link.com) |
-| 🎥 **YouTube Video Demo** | [Paste YouTube Video Link Here](https://youtube.com/watch?v=your-demo-id) |
-| 📑 **Project Documentation** | [Paste Documentation Link Here](https://your-documentation-link.com) |
+| 🌐 **Live Website Demo** | [Click Here!](https://kamaskill-ai.vercel.app/) |
+| 🎥 **YouTube Video Demo** | [Click Here!](https://www.youtube.com/watch?v=ZzVei-CBUWE) |
+| 📑 **Project Documentation** | [Click Here!](https://docs.google.com/document/d/1lu3H1aefZ-orm2mEYBWPHPCbjbTdXB5q8-lvbqir-rw/edit?usp=sharing) |
 
 ---
 
